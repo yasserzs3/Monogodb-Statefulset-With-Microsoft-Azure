@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Setup ⚙️ <a name="setup"></a>
 
 
-
+follow Documentation.pdf for a step by step guide <br /> 
 
 
 
