@@ -1,8 +1,6 @@
 # Monogodb Statefulset With Microsoft Azure
 
-Our aim in this project was to undergo the lifecycle of data science on a combination of two datasets that were provided to us <br /> 
-NoteBook created by <br /> 
-🌟 Yaser Shoshaa <br />
+The aim of this Database and Cloud Computing project is to design, implement, and deploy a scalable and robust bookstore management system using modern cloud technologies.<br /> 
 
 
 ## Table of Contents 🗺️
