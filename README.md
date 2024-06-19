@@ -12,14 +12,9 @@ NoteBook created by <br />
 ## Requirements 📋 <a name="requirements"></a>
 
 - Python 3.12
-- Pandas-1.2.4
-- Scikit-learn 1.2.2
-- Numpy 1.20.1
-- Matplotlib 3.3.4
-- Seaborn 0.11.1
-- missingno 0.5.2
-- feature-engine 1.6.0
-- xgboost 1.7.5
+- ﻿Flask==3.0.0
+- Flask-PyMongo==2.3.0
+- pymongo==4.6.1
 
 ```
 pip install -r requirements.txt
